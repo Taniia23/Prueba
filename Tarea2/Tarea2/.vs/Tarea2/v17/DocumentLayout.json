@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\Tarea2\\Tarea2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{493C12BB-F560-4B26-9BF3-C5F7564798F7}|Tarea2\\Tarea2.csproj|c:\\users\\tania\\onedrive\\escritorio\\lab. analisis\\tarea2\\tarea2\\tarea2\\controllers\\utilitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493C12BB-F560-4B26-9BF3-C5F7564798F7}|Tarea2\\Tarea2.csproj|solutionrelative:tarea2\\controllers\\utilitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493C12BB-F560-4B26-9BF3-C5F7564798F7}|Tarea2\\Tarea2.csproj|C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\Tarea2\\Tarea2\\tarea2\\clases\\utilityclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493C12BB-F560-4B26-9BF3-C5F7564798F7}|Tarea2\\Tarea2.csproj|solutionrelative:tarea2\\clases\\utilityclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UtilityClass.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\Tarea2\\Tarea2\\Tarea2\\Clases\\UtilityClass.cs",
+              "RelativeDocumentMoniker": "Tarea2\\Clases\\UtilityClass.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\Tarea2\\Tarea2\\Tarea2\\Clases\\UtilityClass.cs",
+              "RelativeToolTip": "Tarea2\\Clases\\UtilityClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:41:51.733Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UtilitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\Tarea2\\Tarea2\\Tarea2\\Controllers\\UtilitiesController.cs",
+              "RelativeDocumentMoniker": "Tarea2\\Controllers\\UtilitiesController.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Escritorio\\Lab. Analisis\\Tarea2\\Tarea2\\Tarea2\\Controllers\\UtilitiesController.cs",
+              "RelativeToolTip": "Tarea2\\Controllers\\UtilitiesController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwEUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:37:45.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

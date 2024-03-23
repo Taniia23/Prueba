@@ -1,0 +1,78 @@
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\bin\Debug\net5.0\appsettings.json
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.exe
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.deps.json
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.runtimeconfig.json
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.runtimeconfig.dev.json
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.dll
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.pdb
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.AssemblyInfoInputs.cache
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.AssemblyInfo.cs
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.RazorTargetAssemblyInfo.cache
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\obj\Debug\net5.0\scopedcss\bundle\Tarea2.styles.css
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\obj\Debug\net5.0\staticwebassets\Tarea2.StaticWebAssets.Manifest.cache
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\obj\Debug\net5.0\staticwebassets\Tarea2.StaticWebAssets.Pack.cache
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\obj\Debug\net5.0\staticwebassets\msbuild.Tarea2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\obj\Debug\net5.0\staticwebassets\msbuild.build.Tarea2.props
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Tarea2.props
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Tarea2.props
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.dll
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\obj\Debug\net5.0\refint\Tarea2.dll
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.pdb
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.genruntimeconfig.cache
+C:\Users\ernes\Desktop\CICLO 01-2024\ANALISIS DE SISTEMAS\LABORATORIO\Tarea2\Tarea2\obj\Debug\net5.0\ref\Tarea2.dll
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\bin\Debug\net5.0\appsettings.json
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.exe
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.deps.json
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.runtimeconfig.json
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.runtimeconfig.dev.json
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.dll
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.pdb
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.AssemblyInfoInputs.cache
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.AssemblyInfo.cs
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.RazorTargetAssemblyInfo.cache
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\scopedcss\bundle\Tarea2.styles.css
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\staticwebassets\Tarea2.StaticWebAssets.Manifest.cache
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\staticwebassets\Tarea2.StaticWebAssets.Pack.cache
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\staticwebassets\msbuild.Tarea2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\staticwebassets\msbuild.build.Tarea2.props
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Tarea2.props
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Tarea2.props
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.dll
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\refint\Tarea2.dll
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.pdb
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.genruntimeconfig.cache
+C:\Users\tania\Downloads\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\ref\Tarea2.dll
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\bin\Debug\net5.0\appsettings.json
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.exe
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.deps.json
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.runtimeconfig.json
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.runtimeconfig.dev.json
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.dll
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.pdb
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.AssemblyInfoInputs.cache
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.AssemblyInfo.cs
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.RazorTargetAssemblyInfo.cache
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\scopedcss\bundle\Tarea2.styles.css
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\staticwebassets\Tarea2.StaticWebAssets.Manifest.cache
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\staticwebassets\Tarea2.StaticWebAssets.Pack.cache
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\staticwebassets\msbuild.Tarea2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\staticwebassets\msbuild.build.Tarea2.props
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Tarea2.props
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Tarea2.props
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.dll
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\refint\Tarea2.dll
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.pdb
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.genruntimeconfig.cache
+C:\Users\tania\OneDrive\Escritorio\Lab. Analisis\Tarea2\Tarea2\Tarea2\obj\Debug\net5.0\ref\Tarea2.dll
